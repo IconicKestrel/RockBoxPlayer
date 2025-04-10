@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RockBox</id>
+    <version>1.0.0</version>
+    <authors>RockBox</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Coolman\source\repos\RockBox\RockBox\bin\Debug\net8.0-windows\RockBox.runtimeconfig.json" target="lib\net8.0-windows7.0\RockBox.runtimeconfig.json" />
+    <file src="C:\Users\Coolman\source\repos\RockBox\RockBox\bin\Debug\net8.0-windows\RockBox.dll" target="lib\net8.0-windows7.0\RockBox.dll" />
+  </files>
+</package>

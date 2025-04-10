@@ -1,0 +1,17 @@
+C:\Users\Coolman\source\repos\RockBox\RockBox\bin\x64\Release\net8.0-windows\RockBox.exe
+C:\Users\Coolman\source\repos\RockBox\RockBox\bin\x64\Release\net8.0-windows\RockBox.deps.json
+C:\Users\Coolman\source\repos\RockBox\RockBox\bin\x64\Release\net8.0-windows\RockBox.runtimeconfig.json
+C:\Users\Coolman\source\repos\RockBox\RockBox\bin\x64\Release\net8.0-windows\RockBox.dll
+C:\Users\Coolman\source\repos\RockBox\RockBox\bin\x64\Release\net8.0-windows\RockBox.pdb
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.Properties.Resources.resources
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.Splash.resources
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.csproj.GenerateResource.cache
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.AssemblyInfoInputs.cache
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.AssemblyInfo.cs
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.csproj.CoreCompileInputs.cache
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.dll
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\refint\RockBox.dll
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.pdb
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\RockBox.genruntimeconfig.cache
+C:\Users\Coolman\source\repos\RockBox\RockBox\obj\x64\Release\net8.0-windows\ref\RockBox.dll
