@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Coolman\\source\\repos\\RockBox\\",
+  "WorkspaceRootPath": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|C:\\Users\\Coolman\\source\\repos\\RockBox\\rockbox\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|d:\\rockboxplayerrepo\\rockboxplayer\\rockbox\\rockbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|solutionrelative:rockbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|d:\\rockboxplayerrepo\\rockboxplayer\\rockbox\\rockbox\\rbutil_icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|solutionrelative:rockbox\\rbutil_icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|d:\\rockboxplayerrepo\\rockboxplayer\\rockbox\\rockbox\\rockbox_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|solutionrelative:rockbox\\rockbox_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|d:\\rockboxplayerrepo\\rockboxplayer\\rockbox\\rockbox\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|solutionrelative:rockbox\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|c:\\users\\coolman\\source\\repos\\rockbox\\rockbox\\splash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|solutionrelative:rockbox\\splash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|c:\\users\\coolman\\source\\repos\\rockbox\\rockbox\\rockbox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|solutionrelative:rockbox\\rockbox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|c:\\users\\coolman\\source\\repos\\rockbox\\rockbox\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|d:\\rockboxplayerrepo\\rockboxplayer\\rockbox\\rockbox\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|solutionrelative:rockbox\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|d:\\rockboxplayerrepo\\rockboxplayer\\rockbox\\rockbox\\splash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18485CBB-7ED2-428A-B28F-9ECC780FAEE3}|RockBox\\RockBox.csproj|solutionrelative:rockbox\\splash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,10 +39,47 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Program.cs",
+              "RelativeDocumentMoniker": "RockBox\\Program.cs",
+              "ToolTip": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Program.cs",
+              "RelativeToolTip": "RockBox\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:48:17.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RBUTIL_ICON.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\RBUTIL_ICON.ico",
+              "RelativeDocumentMoniker": "RockBox\\RBUTIL_ICON.ico",
+              "ToolTip": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\RBUTIL_ICON.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "RockBox\\RBUTIL_ICON.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-04-13T02:48:16.073Z",
+              "EditorCaption": " - Icon [256x256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rockbox_Logo.png - PNG [512x160, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Rockbox_Logo.png",
+              "RelativeDocumentMoniker": "RockBox\\Rockbox_Logo.png",
+              "ToolTip": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Rockbox_Logo.png - PNG [512x160, 32 bit, PNG]",
+              "RelativeToolTip": "RockBox\\Rockbox_Logo.png - PNG [512x160, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-13T02:48:08.05Z",
+              "EditorCaption": " - PNG [512x160, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Splash.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\Splash.cs",
+              "DocumentMoniker": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Splash.cs",
               "RelativeDocumentMoniker": "RockBox\\Splash.cs",
-              "ToolTip": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\Splash.cs [Design]",
+              "ToolTip": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Splash.cs [Design]",
               "RelativeToolTip": "RockBox\\Splash.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T14:45:20.977Z",
@@ -42,42 +87,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Splash.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\Splash.Designer.cs",
+              "DocumentMoniker": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Splash.Designer.cs",
               "RelativeDocumentMoniker": "RockBox\\Splash.Designer.cs",
-              "ToolTip": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\Splash.Designer.cs",
+              "ToolTip": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Splash.Designer.cs",
               "RelativeToolTip": "RockBox\\Splash.Designer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T14:42:40.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Splash.cs",
-              "DocumentMoniker": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\Splash.cs",
+              "DocumentMoniker": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Splash.cs",
               "RelativeDocumentMoniker": "RockBox\\Splash.cs",
-              "ToolTip": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\Splash.cs",
+              "ToolTip": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\Splash.cs",
               "RelativeToolTip": "RockBox\\Splash.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:35:58.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RockBox.csproj",
-              "DocumentMoniker": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\RockBox.csproj",
-              "RelativeDocumentMoniker": "RockBox\\RockBox.csproj",
-              "ToolTip": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\RockBox.csproj",
-              "RelativeToolTip": "RockBox\\RockBox.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-10T13:32:51.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T14:35:58.679Z"
             }
           ]
         }

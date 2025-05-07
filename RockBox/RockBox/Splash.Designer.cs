@@ -32,6 +32,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Splash));
             pictureBox1 = new PictureBox();
             timer1 = new System.Windows.Forms.Timer(components);
+            timer2 = new System.Windows.Forms.Timer(components);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -49,6 +50,11 @@
             // 
             timer1.Interval = 1;
             timer1.Tick += timer1_Tick_1;
+            // 
+            // timer2
+            // 
+            timer2.Interval = 6;
+            timer2.Tick += timer2_Tick;
             // 
             // Splash
             // 
@@ -75,5 +81,6 @@
         #endregion
         private PictureBox pictureBox1;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Timer timer2;
     }
 }

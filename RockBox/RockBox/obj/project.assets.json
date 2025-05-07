@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\RockBox.csproj",
+      "projectUniqueName": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\RockBox.csproj",
       "projectName": "RockBox",
-      "projectPath": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\RockBox.csproj",
+      "projectPath": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\RockBox.csproj",
       "packagesPath": "C:\\Users\\Coolman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coolman\\source\\repos\\RockBox\\RockBox\\obj\\",
+      "outputPath": "D:\\RockBoxPlayerRepo\\RockBoxPlayer\\RockBox\\RockBox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

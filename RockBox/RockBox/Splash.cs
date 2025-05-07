@@ -27,8 +27,13 @@ namespace RockBox
 
         private void Splash_Load(object sender, EventArgs e)
         {
-          timer1.Start();
+            timer1.Start();
         }
 
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            timer2.Start();
+            this.Close();
+        }
     }
 }

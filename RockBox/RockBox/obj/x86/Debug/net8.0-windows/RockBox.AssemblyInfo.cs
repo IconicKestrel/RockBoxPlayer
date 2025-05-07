@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RockBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9315b85d14b9b41f9bb212ee3b3f90bcf1ae677")]
 [assembly: System.Reflection.AssemblyProductAttribute("RockBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RockBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
